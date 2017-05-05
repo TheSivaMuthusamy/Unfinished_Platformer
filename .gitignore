@@ -1,0 +1,6 @@
+/build
+/test
+build.xml
+manifest.mf
+/nbproject
+/testmap.txt
