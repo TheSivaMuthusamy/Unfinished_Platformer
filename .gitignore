@@ -1,9 +1,0 @@
-/build
-/test
-build.xml
-manifest.mf
-/nbproject
-/testmap.txt
-.gitignore
-*/.DS_STORE
-.DS_STORE
